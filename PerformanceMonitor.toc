@@ -1,0 +1,17 @@
+## Interface: 90200
+## Title: PerformanceMonitor
+## Notes: A customizable data broker for displaying player currencies
+## Author: solocommand
+## SavedVariables: PerformanceMonitorSettings
+## Version: @project-version@
+## X-ReleaseDate: @project-date-iso@
+## X-License: MIT
+## X-Wago-ID: RqGZzoGd
+## OptionalDeps: Ace3
+
+embeds.xml
+
+i18n\enUS.lua
+
+PerformanceMonitor.lua
+config.lua
